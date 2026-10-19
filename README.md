@@ -45,7 +45,7 @@ herramientas:
 | --- | --- | --- |
 | 🛒 [**Lista Compra Melit**](https://github.com/sergiorodriguez-32/Lista_Compra_Melit) | App full-stack de despensa y lista de la compra, hecha en equipo de 2 durante mis prácticas de 1.º de DAM | `Spring Boot` `Angular` `MySQL` `JWT` `Docker` |
 | 🚗 [**CRM Drive Flow**](https://github.com/sergiorodriguez-32/CRM-concesionario-Drive-Flow) | Gestión de clientes, vehículos y ventas para un concesionario | `Java` `MySQL` `HTML` `CSS` |
-| ✂️ [**Barbería Brothers**](https://barberia-brothers.vercel.app/) | PWA desarrollada para una barbería real: citas online, agenda y facturación. Repositorio privado, disponible bajo petición | `React` `FastAPI` `PostgreSQL` `Supabase` |
+| ✂️ [**Barbería Brothers**](https://barberia-brothers.vercel.app/) | PWA desarrollada para una barbería real: citas online, agenda y facturación. Desplegada y en fase de pruebas con el barbero. Repositorio privado, disponible bajo petición | `React` `FastAPI` `PostgreSQL` `Supabase` |
 
 ## `$ git status`
 
