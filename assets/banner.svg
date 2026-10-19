@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="256" viewBox="0 0 900 256" role="img" aria-label="Sergio Rodríguez López · Desarrollador full-stack junior">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#151b23"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="900" height="256" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="256" fill="url(#bg)"/>
+    <rect width="900" height="38" fill="#161b22"/>
+    <rect y="37" width="900" height="1" fill="#30363d"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="255" rx="14" fill="none" stroke="#30363d"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#27c93f"/>
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="450" y="24" text-anchor="middle" font-size="12" fill="#8b949e">sergio — zsh</text>
+    <text x="40" y="82" font-size="16">
+      <tspan fill="#3fb950">sergio@dam</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan>
+    </text>
+    <text x="40" y="132" font-size="34" font-weight="700" fill="#e6edf3">SERGIO RODRÍGUEZ LÓPEZ</text>
+    <text x="40" y="167" font-size="19" font-weight="700" fill="#58a6ff">Desarrollador full-stack junior</text>
+    <text x="40" y="199" font-size="14" fill="#8b949e">Java · Spring Boot · Angular · Docker  |  Madrid</text>
+    <text x="40" y="233" font-size="16" textLength="134" lengthAdjust="spacingAndGlyphs"><tspan fill="#3fb950">sergio@dam</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan></text>
+    <rect x="182" y="219" width="9" height="17" fill="#3fb950">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
