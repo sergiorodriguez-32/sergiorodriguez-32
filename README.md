@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Desarrollador+full-stack+junior;Java+%C2%B7+Spring+Boot+%C2%B7+Angular;Estudiante+de+2.%C2%BA+de+DAM+%C2%B7+Madrid;Buscando+pr%C3%A1cticas+FCT+desde+marzo+de+2027" alt="Typing animation"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sergiorodriguez-32&style=flat&color=3fb950&label=visitas" alt="Visitas al perfil"/>
+<img src="https://komarev.com/ghpvc/?username=sergiorodriguez-32&style=flat-square&color=3fb950&label=visitas&base=0" alt="Visitas al perfil"/>
 
 </div>
 
